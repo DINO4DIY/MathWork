@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Worksheets Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Math Worksheets Generator</h1>
+        <form id="worksheetForm">
+            <div class="form-group">
+                <label for="studentName">Student Name:</label>
+                <input type="text" id="studentName" required>
+                <label for="date">Date:</label>
+                <input type="date" id="date" required>
+            </div>
+            <div class="form-group">
+                <label for="operation">Select Operation:</label>
+                <select id="operation">
+                    <option value="addition">Addition</option>
+                    <option value="subtraction">Subtraction</option>
+                    <option value="multiplication">Multiplication</option>
+                    <option value="division">Division</option>
+                </select>
+                <label for="difficulty">Select Difficulty Level:</label>
+                <select id="difficulty">
+                    <option value="easy">Easy</option>
+                    <option value="medium">Medium</option>
+                    <option value="hard">Hard</option>
+                </select>
+                <label for="numProblems">Number of Problems:</label>
+                <input type="number" id="numProblems" value="10" min="1" required>
+            </div>
+            <div class="form-group">
+                <button type="button" onclick="generateWorksheet()">Generate Worksheet</button>
+                <button type="button" onclick="printWorksheet()">Print Worksheet</button>
+            </div>
+        </form>
+        <div id="worksheet"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

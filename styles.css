@@ -1,3 +1,5 @@
+/* styles.css */
+
 .container {
     max-width: 800px;
     margin: 0 auto;
@@ -74,4 +76,23 @@ input[type="number"] {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-sizing: border-box;
+}
+
+/* Print styles */
+@media print {
+    #worksheet {
+        margin: 0;
+        padding: 0;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+
+    th, td {
+        border: 1px solid black;
+        padding: 8px;
+    }
 }

@@ -29,6 +29,8 @@ Worksheet Screen:
 ![image](https://github.com/DINO4DIY/MathWork/assets/160423883/234dcb1d-2093-40c7-9d5b-01c07387fff2)
 Thank You for using this app.
 
+https://www.webintoapp.com/store/275537 
+
 Comming soon...
   - Andriod App (in progres...)
   - Make the app available on Google App Store 

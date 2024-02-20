@@ -1,5 +1,5 @@
 # MathWork
-This project was created to generate Math Worksheets for school going kids and will be free to distribte forever. 
+This project was created to generate Math Worksheets for school going kids and will be free to distribute forever. 
 
 # Web Link
 https://mathwork.tiiny.site

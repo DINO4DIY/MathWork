@@ -42,16 +42,6 @@ function generateWorksheet() {
     worksheetDiv.innerHTML = worksheetHTML;
 }
 
-function printWorksheet() {
-    const worksheetContent = document.getElementById("worksheet").innerHTML;
-    const printWindow = window.open('', '_blank');
-    printWindow.document.write('<html><head><title>Math Worksheet</title></head><body>');
-    printWindow.document.write(worksheetContent);
-    printWindow.document.write('</body></html>');
-    printWindow.document.close();
-    printWindow.print();
-}
-
 function checkAnswers() {
     const answerInputs = document.getElementsByClassName("answerInput");
 

@@ -1,7 +1,10 @@
 # MathWork
 This project was created to generate Math Worksheets for school going kids and will be free to distribte forever. 
 
-v1.0
+# Link
+https://mathwork.tiiny.site
+
+# v1.0
 This is a pre-production release for testing purpose only. It provides below options:
   - Kids can enter their name & date.
   - Kids can select the operation from Addition, Subtraction, Multiplication and Division.
@@ -9,11 +12,11 @@ This is a pre-production release for testing purpose only. It provides below opt
   - Kids can then generate the worksheet and input the answers or print (experimental) the worksheet for later use.
   - Kids can also check the question answers on the worksheet once they are completed. 
 
-v1.2 release.
+# v1.2
 This is a pre-production release for testing purpose only. With this release. 
   - Print functionality was removed as it was not working as expected.
 
-v1.3 release
+# v1.3
 This is a production ready release with following changes.
   - After entering Name, Date, Operation, Difficulty Level & Number of questions; the worksheet generated will now hide these input options thus making it much more clener to look.
   - The new worksheet will have features to input answers, check the answers, print the worksheet and go back to input option.

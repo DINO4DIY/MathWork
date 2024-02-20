@@ -1,8 +1,11 @@
 # MathWork
 This project was created to generate Math Worksheets for school going kids and will be free to distribte forever. 
 
-# Link
+# Web Link
 https://mathwork.tiiny.site
+
+# Andriod App
+https://www.webintoapp.com/store/275537
 
 # v1.0
 This is a pre-production release for testing purpose only. It provides below options:
@@ -29,10 +32,7 @@ Worksheet Screen:
 ![image](https://github.com/DINO4DIY/MathWork/assets/160423883/234dcb1d-2093-40c7-9d5b-01c07387fff2)
 Thank You for using this app.
 
-https://www.webintoapp.com/store/275537 
-
 Comming soon...
-  - Andriod App (in progres...)
   - Make the app available on Google App Store 
   - Make the app available on Apple App Store.
 
